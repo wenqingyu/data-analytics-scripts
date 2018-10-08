@@ -16,7 +16,6 @@ var mysql = require('mysql2/promise')
 
 var schedule = require('node-schedule')
 var request = require('async-request')
-var SqlString = require('sqlstring')
 
 console.log('DappReview Listed Projects Snapshot Sync Task Started! ')
 

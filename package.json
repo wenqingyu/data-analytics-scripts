@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/wenqingyu/data-analytics-scripts/issues"
   },
-  "homepage": "https://github.com/wenqingyu/data-analytics-scripts#readme"
+  "homepage": "https://github.com/wenqingyu/data-analytics-scripts#readme",
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "config": "^2.0.1",
+    "mysql2": "^1.6.1",
+    "node-schedule": "^1.3.0"
+  }
 }
