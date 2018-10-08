@@ -1,0 +1,19 @@
+{
+  "name": "data-analytics-scripts",
+  "version": "1.0.0",
+  "description": "Personal use data analytic scripts collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenqingyu/data-analytics-scripts.git"
+  },
+  "author": "Wenqing Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenqingyu/data-analytics-scripts/issues"
+  },
+  "homepage": "https://github.com/wenqingyu/data-analytics-scripts#readme"
+}
